@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"S:/1902055/Project_Black-Shuck_BA3b/Content/Level/L_Norwich_Market.umap",
+				"D:/Unreal Projects/MachineLearning/Project_Black-Shuck_BA3b/Content/Level/L_Norwich_Market.umap",
+				"D:/Unreal Projects/MachineLearning/Project_Black-Shuck_BA3b/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"R:/BA3b/ASATW/Project_Black_Shuck/Content/Level/L_Norwich_Market.umap",
+				"R:/BA3b/ASATW/Project_Black_Shuck/Content/Level/L_Norwich_Market_BuiltData.uasset"
+			]
+		}
+	]
+}
